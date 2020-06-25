@@ -1,1 +1,0 @@
-{"version":3,"sources":["Person.css"],"names":[],"mappings":"AAAA,QACE,qBAAsB,CACtB,YAAa,CACb,cAAe,CACf,iBAAkB,CAClB,gBAAiB,CACjB,iBACF","file":"main.a106152d.chunk.css","sourcesContent":[".mycard {\r\n  border: solid gray 1px;\r\n  padding: 20px;\r\n  margin-top: 5px;\r\n  text-align: center;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n}\r\n"]}

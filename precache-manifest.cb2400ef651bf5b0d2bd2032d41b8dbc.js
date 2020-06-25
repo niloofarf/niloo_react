@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccb5da43252152ad1518b3369b8a10f3",
+    "revision": "c1a6ff2c7c272d65dea183da794537a1",
     "url": "/niloo_react/index.html"
   },
   {
-    "revision": "4d1de2edb169b947872c",
-    "url": "/niloo_react/static/css/main.a106152d.chunk.css"
+    "revision": "c716a165ff81a9022243",
+    "url": "/niloo_react/static/css/main.d8534f36.chunk.css"
   },
   {
     "revision": "6057e8bf725ccfac1b82",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/niloo_react/static/js/2.a744ddc1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d1de2edb169b947872c",
+    "revision": "c716a165ff81a9022243",
     "url": "/niloo_react/static/js/main.4daa7ab5.chunk.js"
   },
   {

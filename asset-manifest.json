@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/niloo_react/static/css/main.a106152d.chunk.css",
+    "main.css": "/niloo_react/static/css/main.d8534f36.chunk.css",
     "main.js": "/niloo_react/static/js/main.4daa7ab5.chunk.js",
     "main.js.map": "/niloo_react/static/js/main.4daa7ab5.chunk.js.map",
     "runtime-main.js": "/niloo_react/static/js/runtime-main.784f51d7.js",
@@ -8,15 +8,15 @@
     "static/js/2.a744ddc1.chunk.js": "/niloo_react/static/js/2.a744ddc1.chunk.js",
     "static/js/2.a744ddc1.chunk.js.map": "/niloo_react/static/js/2.a744ddc1.chunk.js.map",
     "index.html": "/niloo_react/index.html",
-    "precache-manifest.eec20db488d2bdd8665cd1a1d0d97df1.js": "/niloo_react/precache-manifest.eec20db488d2bdd8665cd1a1d0d97df1.js",
+    "precache-manifest.cb2400ef651bf5b0d2bd2032d41b8dbc.js": "/niloo_react/precache-manifest.cb2400ef651bf5b0d2bd2032d41b8dbc.js",
     "service-worker.js": "/niloo_react/service-worker.js",
-    "static/css/main.a106152d.chunk.css.map": "/niloo_react/static/css/main.a106152d.chunk.css.map",
+    "static/css/main.d8534f36.chunk.css.map": "/niloo_react/static/css/main.d8534f36.chunk.css.map",
     "static/js/2.a744ddc1.chunk.js.LICENSE.txt": "/niloo_react/static/js/2.a744ddc1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.784f51d7.js",
     "static/js/2.a744ddc1.chunk.js",
-    "static/css/main.a106152d.chunk.css",
+    "static/css/main.d8534f36.chunk.css",
     "static/js/main.4daa7ab5.chunk.js"
   ]
 }
