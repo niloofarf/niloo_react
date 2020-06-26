@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/niloo_react/precache-manifest.cb2400ef651bf5b0d2bd2032d41b8dbc.js"
+  "/niloo_react/precache-manifest.3e0566ffac5c0039ee468de40b5d4008.js"
 );
 
 self.addEventListener('message', (event) => {
