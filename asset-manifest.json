@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/niloo_react/static/css/main.d8534f36.chunk.css",
-    "main.js": "/niloo_react/static/js/main.ea5e9d7f.chunk.js",
-    "main.js.map": "/niloo_react/static/js/main.ea5e9d7f.chunk.js.map",
+    "main.js": "/niloo_react/static/js/main.88e885b7.chunk.js",
+    "main.js.map": "/niloo_react/static/js/main.88e885b7.chunk.js.map",
     "runtime-main.js": "/niloo_react/static/js/runtime-main.784f51d7.js",
     "runtime-main.js.map": "/niloo_react/static/js/runtime-main.784f51d7.js.map",
-    "static/js/2.a744ddc1.chunk.js": "/niloo_react/static/js/2.a744ddc1.chunk.js",
-    "static/js/2.a744ddc1.chunk.js.map": "/niloo_react/static/js/2.a744ddc1.chunk.js.map",
+    "static/js/2.ef26f1f1.chunk.js": "/niloo_react/static/js/2.ef26f1f1.chunk.js",
+    "static/js/2.ef26f1f1.chunk.js.map": "/niloo_react/static/js/2.ef26f1f1.chunk.js.map",
     "index.html": "/niloo_react/index.html",
-    "precache-manifest.3e0566ffac5c0039ee468de40b5d4008.js": "/niloo_react/precache-manifest.3e0566ffac5c0039ee468de40b5d4008.js",
+    "precache-manifest.de04952955814f4f1069bda2f73f6c9a.js": "/niloo_react/precache-manifest.de04952955814f4f1069bda2f73f6c9a.js",
     "service-worker.js": "/niloo_react/service-worker.js",
     "static/css/main.d8534f36.chunk.css.map": "/niloo_react/static/css/main.d8534f36.chunk.css.map",
-    "static/js/2.a744ddc1.chunk.js.LICENSE.txt": "/niloo_react/static/js/2.a744ddc1.chunk.js.LICENSE.txt"
+    "static/js/2.ef26f1f1.chunk.js.LICENSE.txt": "/niloo_react/static/js/2.ef26f1f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.784f51d7.js",
-    "static/js/2.a744ddc1.chunk.js",
+    "static/js/2.ef26f1f1.chunk.js",
     "static/css/main.d8534f36.chunk.css",
-    "static/js/main.ea5e9d7f.chunk.js"
+    "static/js/main.88e885b7.chunk.js"
   ]
 }
